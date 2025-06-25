@@ -1,0 +1,7 @@
+numpy
+scipy
+Pillow
+# Uncomment ONE of the following as appropriate for your GPU
+# cupy-cuda118
+# cupy-cuda117
+# cupy-rocm-5xx

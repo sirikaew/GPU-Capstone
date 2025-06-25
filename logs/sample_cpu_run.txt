@@ -1,0 +1,1 @@
+Mode: CPU   Kernel: 11×11   Elapsed: 0.012 s
