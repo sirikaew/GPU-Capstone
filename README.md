@@ -88,14 +88,5 @@ Mode: CPU   Kernel: 11×11   Elapsed: 0.127 s
 Feel free to replace it with your own benchmarking logs or screenshots for presentation.
 
 ## Presentation
-
-Record a 5‑10 min video summarising:
-
-1. **Goal** – fast Gaussian blur & GPU vs CPU speedup  
-2. **Design** – CuPy vs NumPy paths, tiling & shared memory (brief)  
-3. **Results** – show timing table & blurred images  
-4. **Lessons Learned / Next Steps**
-
-Upload the video (YouTube unlisted, Google Drive, etc.) and link it in this README.
-
-Happy hacking! 🎉
+Link to the presentation documentation
+https://github.com/sirikaew/GPU-Capstone/blob/main/GPU%20Gaussian%20Blur%20%E2%80%93%20Capstone%20Project.pdf
