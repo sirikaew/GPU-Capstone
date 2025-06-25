@@ -4,8 +4,7 @@ This project demonstrates a simple yet illustrative **Gaussian blur** image filt
 It also provides a pure‑CPU fallback so it can be executed on machines without CUDA hardware.
 
 > *Course context:* CUDA/GPU Programming Specialization – Capstone  
-> *Author:* ChatGPT demo code  
-> *License:* MIT
+> *Author:* Sirikaew 
 
 ## Why Gaussian Blur?
 * Convolution‑based blurs are common in computer vision.  
