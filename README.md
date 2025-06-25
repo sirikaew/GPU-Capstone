@@ -77,15 +77,7 @@ optional arguments:
 ```
 
 ## Proof of Execution
-
-A sample run on a **CPU‑only** notebook VM is stored in `logs/sample_cpu_run.txt`.  
-Example excerpt:
-
-```
-Mode: CPU   Kernel: 11×11   Elapsed: 0.127 s
-```
-
-Feel free to replace it with your own benchmarking logs or screenshots for presentation.
+Read the below presentation.
 
 ## Presentation
 Link to the presentation documentation
